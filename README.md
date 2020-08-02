@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on MTDP
 - 🌱 I’m currently learning iOS、Java Web
+- 📫 How to reach me: happeoo00123@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: happeoo00123@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
